@@ -1,0 +1,28 @@
+# Composer dependencies
+/vendor/
+
+# Composer lock file (optional)
+/composer.lock
+
+# Environment configuration
+/.env
+
+# PHPStorm project files
+/.idea/
+
+# Log files
+/logs/
+
+/cache/
+
+/tmp/
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Node modules (if using Node.js)
+/node_modules/
+
+# Other IDE/editor specific files
+.vscode/
